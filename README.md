@@ -45,9 +45,9 @@ def max_marks(marks):
 ![Alt text](<Screenshot (44).png>)
 
 ## Output:
-![Alt text](<Screenshot (40).png>)
-![Alt text](<Screenshot (41).png>)
-![Alt text](<Screenshot (42).png>)
+![Alt text](<Screenshot (68).png>)
+![Alt text](<Screenshot (69).png>)
+![Alt text](<Screenshot (70).png>)
 
 
 ## Result:
